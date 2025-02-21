@@ -37,19 +37,19 @@ A simple and modern Blog Website built with HTML, CSS, and JavaScript. This proj
 The UI consists of the following main components:
 - **Post List:** Displays a list of all Posts.
 
-![screenshot](assets/post.png)
+![screenshot](public/assets/post.png)
 
 - **About Page:** Displays information about the website.
 
-![screenshot](assets/about.png)
+![screenshot](public/assets/about.png)
 
 - **Contact Us Page:** Displays information for users to get in touch with the website administrators.
 
-![screenshot](assets/contact_us.png)
+![screenshot](public/assets/contact_us.png)
 
 - **Post Form:** A form for creating Posts.
 
-![screenshot](assets/add.png)
+![screenshot](public/assets/add.png)
 
 ## Installation
 1. Clone the repository:
